@@ -4,7 +4,7 @@ Feedreader is a web-based application that reads RSS feeds. This project is to t
 
 ## Running the test locally
 
-Click "Clone in Desktop" / "Download ZIP"
-Open the folder
-Open index.html
-The test results can be found at the bottom of the screen.
+*  Click "Clone in Desktop" / "Download ZIP"
+*  Open the folder
+*  Open index.html
+*  The test results can be found at the bottom of the screen.
